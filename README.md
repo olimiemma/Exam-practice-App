@@ -7,7 +7,7 @@ Aexam is a web-based application designed to help users practice for various exa
 - User authentication system
 - Selection of various exam types (IELTS, AWS Certification, CFA, CPA, etc.)
 - Difficulty levels for each exam type (Easy, Medium, Hard)
-- Dynamic question generation using OpenAI's GPT model
+- Dynamic question generation using OpenAI's GPT model(Other models to be iocluded soon)
 - Progress tracking for users
 - Responsive web design for desktop and mobile use
 
